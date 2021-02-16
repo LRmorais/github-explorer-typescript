@@ -26,10 +26,13 @@
   ],
   "rules": {
     "react/jsx-props-no-spreading": "off",
+    "react/jsx-one-expression-per-line": "off",
     "prettier/prettier": "error",
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
     "no-use-before-define": "off",
+    "camelcase":"off",
+    "@typescript-eslint/camelcase": "off",
     "@typescript-eslint/no-use-before-define": [
       "error"
     ],
