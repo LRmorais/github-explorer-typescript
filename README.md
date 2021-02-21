@@ -13,8 +13,8 @@
 
 ## PrintScreens do projeto
 
-//![Dark Theme](https://github.com/LRmorais/github-explorer-typescript/blob/main/public/printscreens/dashboard.JPG?raw=true)
-//![Light Theme](https://github.com/LRmorais/github-explorer-typescript/blob/main/public/printscreens/repository.JPG?raw=true)
+![Dashboard](https://github.com/LRmorais/github-explorer-typescript/blob/main/public/printscreens/dashboard.JPG?raw=true)
+![Repository](https://github.com/LRmorais/github-explorer-typescript/blob/main/public/printscreens/repository.JPG?raw=true)
 
 ### Tecnologias
 - [ReactJS](https://pt-br.reactjs.org/) :heavy_check_mark:
